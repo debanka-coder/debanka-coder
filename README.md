@@ -18,6 +18,9 @@ Email Me 👉 ✉️ **chakrabortydebanka6@gmail.com** For Collaboration/Project
 ![](https://streak-stats.demolab.com/?user=debanka-coder&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=debanka-coder&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/its_your_debanka?stkn=MWJ3ZHF1cDNpajdxcg==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/debanka-chakraborty-42b815440) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://share.google/3t0FitOkpA4I3Mqth)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=debanka-coder&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
